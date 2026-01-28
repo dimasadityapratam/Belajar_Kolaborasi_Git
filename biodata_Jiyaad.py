@@ -10,7 +10,7 @@ pekerjaan = "Siswa"
 
 # 2. Menampilkan Biodata ke Layar
 print("="*30)
-print("     BIODATA MAHASISWA")
+print("     BIODATA SISWA")
 print("="*30)
 print(f"Nama Lengkap   : {nama_lengkap}")
 print(f"Nama Panggilan : {nama_panggilan}")
